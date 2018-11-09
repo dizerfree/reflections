@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  If you push changes to GitHub from another computer
+  or if another person is working on your project who pushes changes to GitHub
