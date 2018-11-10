@@ -11,3 +11,15 @@ When would you use one instead of another?
 	without pulling the file to my local computer
 
 	Clone I will use if I want to edit the code on my own computer
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Git is Version Control System
+	GitHub is a hosting service for Git repositories. 
+	Git is the tool, GitHub is the service for projects that use Git.
+
+	Collaborate without using GitHub would be harder
+	Because Github allows you to:
+	Share your repositories with others.
+	Access other user's repositories.
+	Store remote copies of your repositories (github servers) as backup of your local copies.
