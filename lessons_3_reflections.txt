@@ -23,3 +23,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Share your repositories with others.
 	Access other user's repositories.
 	Store remote copies of your repositories (github servers) as backup of your local copies.
+	
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	If you want to try new feature or you work on new part of project 
+	then a good practice will be using a separate branch
